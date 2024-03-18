@@ -55,32 +55,35 @@ Check out our live demo of the landing page [here](https://asirem.amanshopdz.com
    cd /Asirem/Asirem
 2. Install dependencies:
 
-  ```bash
-  npm install
+    ```bash
+    npm install
 3. Start the development server:
 
-  ```bash
-  npm run dev
+    ```bash
+    npm run dev
+    
 Open your browser and navigate to http://localhost:3000 to view the landing page.
 
 2-/ To Run the ChatBot, follow these steps : 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/sprdgx/Asirem
-   cd /Asirem/Yazbot
+     ```bash
+     git clone https://github.com/sprdgx/Asirem
+     cd /Asirem/Yazbot
+     
 2. Install dependencies:
 
-  ```bash
-  npm install
+    ```bash
+    npm install
 
 3. Start the development server:
 
-  ```bash
-  node combines.js
+    ```bash
+    node combines.js
 
 Your server will be available at http://localhost:3000. Make sure to keep it running to use the YazBot and access the landing page. 
 
 
-
+📄 License
+This project is licensed under the MIT License.
