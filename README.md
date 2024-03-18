@@ -36,7 +36,9 @@ Our IT department offers a range of services, including but not limited to:
 
 ## 🤖 Yazbot: Your Virtual Assistant
 
-Yazbot is our intelligent chatbot designed to answer any type of questions related to IT and technology. It leverages NLP and the Wiki API to provide accurate and helpful responses.
+Yazbot is our intelligent chatbot designed to answer any type of questions related to IT and technology. It leverages Natural Language Processing (NLP) using libraries such as `nltk`, `node-nlp`, and `natural`, along with the Wiki API and Axios for fetching data. Yazbot is powered by Vitejs for fast development and Framer Motion for creating engaging animations and interactions. Additionally, it uses Express for server-side functionality and interacts with the file system (`fs`) for data processing. The `node-fetch` module is utilized for making fetch API requests, while `readline` and `readline-sync` enable Yazbot to read and process user input from the terminal.
+
+Yazbot's capabilities are further enhanced by combining these technologies, allowing it to provide accurate and helpful responses to user queries effectively.
 
 ## 🌐 Live Demo
 
@@ -44,9 +46,43 @@ Check out our live demo of the landing page [here](https://asirem.amanshopdz.com
 
 ## 📝 Getting Started
 
-To run the project locally, follow these steps:
+1-/ To Run the project locally, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.
+   git clone https://github.com/sprdgx/Asirem
+   cd /Asirem/Asirem
+2. Install dependencies:
+
+  ```bash
+  npm install
+
+3. Start the development server:
+
+  ```bash
+  npm run dev
+
+Open your browser and navigate to http://localhost:3000 to view the landing page.
+
+2-/ To Run the ChatBot, follow these steps : 
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sprdgx/Asirem
+   cd /Asirem/Yazbot
+2. Install dependencies:
+
+  ```bash
+  npm install
+
+3. Start the development server:
+
+  ```bash
+  node combines.js
+
+Your server will be available at http://localhost:3000. Make sure to keep it running to use the YazBot and access the landing page. 
+
+
+
