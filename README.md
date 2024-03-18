@@ -10,10 +10,20 @@ Welcome to Asirem, the KBNet IT Department landing page! This page showcases our
 
 ## 🚀 Technologies Used
 
-- Next.js: A React framework for building fast and scalable web applications.
-- Axios: A promise-based HTTP client for making requests to external APIs.
-- Wiki API: Provides access to Wikipedia data for Yazbot's knowledge base.
-- NLP (Natural Language Processing): Enhances Yazbot's ability to understand and respond to user queries effectively.
+- **Vitejs:** A fast and scalable web application build tool that enhances development workflow.
+- **Framer Motion:** A library for creating animations and interactions in React applications.
+- **Axios:** A promise-based HTTP client for making requests to external APIs.
+- **Express:** A web application framework for Node.js used for server-side development.
+- **fs:** A Node.js module for interacting with the file system.
+- **natural:** A library for natural language processing (NLP) tasks in Node.js.
+- **nltk:** A platform for building Python programs to work with human language data.
+- **node-fetch:** A light-weight module for making fetch API requests in Node.js.
+- **node-nlp:** A Node.js module for natural language processing and machine learning.
+- **readline:** A Node.js module for reading input from a readable stream (such as the terminal).
+- **readline-sync:** A Node.js module for reading user input synchronously from the terminal.
+- **Wiki API:** Provides access to Wikipedia data for Yazbot's knowledge base.
+- **NLP (Natural Language Processing):** Enhances Yazbot's ability to understand and respond to user queries effectively.
+
 
 ## 💻 Services Offered
 
@@ -21,8 +31,8 @@ Our IT department offers a range of services, including but not limited to:
 
 - Website development and maintenance
 - Server management and maintenance
-- Network security solutions
 - IT consulting and support
+- Search Engine Optimization(SEO)
 
 ## 🤖 Yazbot: Your Virtual Assistant
 
@@ -30,7 +40,7 @@ Yazbot is our intelligent chatbot designed to answer any type of questions relat
 
 ## 🌐 Live Demo
 
-Check out our live demo of the landing page [here](https://example.com).
+Check out our live demo of the landing page [here](https://asirem.amanshopdz.com).
 
 ## 📝 Getting Started
 
