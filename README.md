@@ -27,7 +27,7 @@ Welcome to Asirem, the KBNet IT Department landing page! This page showcases our
 
 ## 💻 Services Offered
 
-  <img src="https://github.com/sprdgx/WebGifs/raw/main/Asirem.gif" alt="Spuseum GIF 1" width="450px" style="display: inline-block; margin-right: 20px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/Asirem.gif" alt="Spuseum GIF 1" width="450px" style="display: inline-block; margin-right: 20px;" />
 
 
 Our IT department offers a range of services, including but not limited to:
