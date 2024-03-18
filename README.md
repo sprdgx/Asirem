@@ -27,6 +27,9 @@ Welcome to Asirem, the KBNet IT Department landing page! This page showcases our
 
 ## 💻 Services Offered
 
+  <img src="https://github.com/sprdgx/WebGifs/raw/main/Asirem.gif" alt="Spuseum GIF 1" width="450px" style="display: inline-block; margin-right: 20px;" />
+
+
 Our IT department offers a range of services, including but not limited to:
 
 - Website development and maintenance
@@ -35,6 +38,9 @@ Our IT department offers a range of services, including but not limited to:
 - Search Engine Optimization(SEO)
 
 ## 🤖 Yazbot: Your Virtual Assistant
+
+  <img src="https://github.com/sprdgx/WebGifs/raw/main/Asirem2.gif" alt="Spuseum GIF 1" width="450px" style="display: inline-block; margin-right: 20px;" />
+
 
 Yazbot is our intelligent chatbot designed to answer any type of questions related to IT and technology. It leverages Natural Language Processing (NLP) using libraries such as `nltk`, `node-nlp`, and `natural`, along with the Wiki API and Axios for fetching data. Yazbot is powered by Vitejs for fast development and Framer Motion for creating engaging animations and interactions. Additionally, it uses Express for server-side functionality and interacts with the file system (`fs`) for data processing. The `node-fetch` module is utilized for making fetch API requests, while `readline` and `readline-sync` enable Yazbot to read and process user input from the terminal.
 
