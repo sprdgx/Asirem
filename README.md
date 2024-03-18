@@ -57,12 +57,10 @@ Check out our live demo of the landing page [here](https://asirem.amanshopdz.com
 
   ```bash
   npm install
-
 3. Start the development server:
 
   ```bash
   npm run dev
-
 Open your browser and navigate to http://localhost:3000 to view the landing page.
 
 2-/ To Run the ChatBot, follow these steps : 
