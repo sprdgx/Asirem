@@ -62,7 +62,7 @@ Check out our live demo of the landing page [here](https://asirem.amanshopdz.com
     ```bash
     npm run dev
     
-Open your browser and navigate to http://localhost:3000 to view the landing page.
+Open your browser and navigate to http://localhost:3000 or http://localhost:3001 to view the landing page.
 
 2-/ To Run the ChatBot, follow these steps : 
 
