@@ -57,7 +57,7 @@ Check out our live demo of the landing page [here](https://asirem.amanshopdz.com
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sprdgx/Asirem
+   git clone https://github.com/sprdgx/Asirem.git
    cd /Asirem/Asirem
 2. Install dependencies:
 
